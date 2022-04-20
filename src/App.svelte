@@ -51,7 +51,9 @@
         position: fixed;
         margin: 0 auto;
 
-        min-height: 100%;
-        width: auto;
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+        object-position: center;
     }
 </style>
